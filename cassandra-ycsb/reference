@@ -1,0 +1,12 @@
+How to create Cassandra cluster
+
+https://www.digitalocean.com/community/tutorials/how-to-run-a-multi-node-cluster-database-with-cassandra-on-ubuntu-14-04
+http://www.aerospike.com/docs/benchmarks/cassandra/simple_ycsb/cassandra_install.html
+https://www.jamescoyle.net/how-to/2448-create-a-simple-cassandra-cluster-with-3-nodes
+http://manuel.kiessling.net/2016/07/11/how-cassandras-inner-workings-relate-to-performance/
+http://techblog.netflix.com/2011/11/benchmarking-cassandra-scalability-on.html
+
+For debuuging:
+https://lostechies.com/ryansvihla/2014/11/25/my-cassandra-diagnostics-checklist-brain-dump/
+
+https://github.com/ajermakovics/jvm-mon 
